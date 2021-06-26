@@ -6,5 +6,9 @@
 <body>
 	<p>Menambahkan paragrap ini</p>
 
+	<ul>
+		<li>Masak</li>
+	</ul>
+
 </body>
 </html>
